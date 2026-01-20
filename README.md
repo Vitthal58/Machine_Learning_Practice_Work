@@ -3,3 +3,4 @@ In this repo the step by step learning process of Ml on daily basics with practi
 
 1.Liner regression done with its evaluation matrics and other regualization techniques..
 2.logistic regression done with confusion matrix and its all parameter..
+3.naive bayes classification with its evaluation matrics ✅
