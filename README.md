@@ -1,138 +1,64 @@
-# Machine Learning Practice Work (Ongoing) 🚧📊
+# Machine Learning Practice Work (Ongoing) 🤖📊
 
-This repository contains my **day-by-day Machine Learning practice work**.  
-I continuously upload **new notebooks and files directly into this repository** as I learn and experiment with different Machine Learning algorithms.
-
-The README is **updated regularly** to reflect new work and learning progress.
+This repository contains my day-by-day Machine Learning practice work.  
+I am currently focusing on understanding algorithm implementation, working with datasets, and improving my ML fundamentals.
 
 ---
 
-## 🔄 Current Status
+## 📌 Topics Covered
 
-🟢 **Status:** Actively in progress  
-📅 **Updates:** Files are added frequently  
-📂 **Structure:** All practice files are uploaded directly in the repository
-
----
-
-## 📌 Algorithms Practiced So Far
-
-### ✅ Linear Regression
-- Applied on regression datasets
-- Evaluation Metrics:
-  - Mean Squared Error (MSE)
-  - Mean Absolute Error (MAE)
-  - R² Score
-
----
-
-### ✅ Logistic Regression
-- Binary & multiclass classification
-- Evaluation Metrics:
-  - Accuracy
-  - Precision
-  - Recall
-  - F1-Score
-  - Confusion Matrix
-
----
-
-### ✅ Naive Bayes
-- Probabilistic classification algorithm
-- Evaluation Metrics:
-  - Accuracy
-  - Precision
-  - Recall
-  - F1-Score
-
----
-
-### ✅ K-Nearest Neighbors (KNN)
-- Distance-based algorithm
-- Tested with different values of **K**
-- Evaluation Metrics:
-  - Accuracy
-  - Precision
-  - Recall
-  - Confusion Matrix
-
----
-
-### ✅ Decision Tree
-- Tree-based supervised learning algorithm
-- Trained on different datasets
-- Performed model evaluation and comparison
-
----
-
-## 📊 Evaluation Strategy
-
-For each dataset:
-- Data preprocessing
-- Train-test split
-- Model training
-- Performance evaluation using suitable metrics
-- Comparison between algorithms where applicable
-
----
-
-## 🗓️ Learning Progress (Updated Regularly)
-
-| Day | Work Done |
-|----|----------|
-| Day 1 | Linear Regression implementation |
-| Day 2 | Logistic Regression practice |
-| Day 3 | Naive Bayes experiments |
-| Day 4 | KNN with multiple K values |
-| Day 5 | Decision Tree training |
-| … | Ongoing updates 🚀 |
-
----
-
-## 🧠 Concepts Covered (Growing)
-
-- Supervised Learning
-- Regression vs Classification
-- Feature scaling & encoding
-- Model evaluation metrics
-- Overfitting & underfitting
-
----
-
-## 🛠️ Tools & Libraries
-
-- Python 🐍
+### 🐍 Python Fundamentals
 - NumPy
 - Pandas
-- Matplotlib / Seaborn
-- Scikit-learn
-- Jupyter Notebook
+- Basic data handling and preprocessing
 
 ---
 
-## 🎯 Purpose of This Repository
+### 📊 Supervised Learning Algorithms
 
-- Maintain **consistency in ML practice**
-- Strengthen algorithm fundamentals
-- Track learning progress over time
-- Improve model evaluation skills
+#### Regression
+- Linear Regression
+- Logistic Regression
 
----
-
-## 🔮 Upcoming Work
-
-- Cross-validation
-- Hyperparameter tuning
-- Ensemble methods
-- More datasets and experiments
+#### Classification
+- K-Nearest Neighbors (KNN)
+- Naive Bayes
+- Decision Tree
+- Support Vector Machine (SVM / SVC)
 
 ---
 
-## 📌 Note
-
-This repository is a **learning workspace**.  
-Some files may be revised or improved as my understanding evolves.
+### 🌳 Ensemble Learning
+- Random Forest (Bagging Technique)
+- Gradient Boosting
+- Voting & Stacking Methods
 
 ---
 
-⭐ This repo is actively maintained and updated with new ML practice work.
+## 📂 Repository Structure
+
+Datasets/ → Practice datasets
+Practice/ → General ML practice notebooks
+Python_fundamentals/ → NumPy & Pandas learning
+Supervised/ → All supervised ML algorithms
+
+
+---
+
+## ⚙️ Implementation Approach
+- Implemented algorithms using Scikit-Learn
+- Performed basic preprocessing and data splitting
+- Used evaluation metrics such as accuracy and confusion matrix (in some models)
+- Focused mainly on understanding model working and implementation
+
+---
+
+## 🚀 Future Plans
+- Improve model evaluation techniques
+- Work on hyperparameter tuning
+- Implement real-world ML projects
+- Explore Deep Learning and advanced ML concepts
+
+---
+
+⭐ This repository is continuously updated as I learn new ML concepts.
